@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    color: red;
+    background-color: black;
+}
+h2 {
+    text-align: center;
+    color: gold;
+    background-color: black;
+}
+h3 {
+    text-align: center;
+    color:greenyellow;
+    background-color: black;
+}
+h4 {
+    text-align: center;
+    color: khaki;
+    background-color: black;
+
+}
+.opening title {
+
+    font-size: 200px;
+}
